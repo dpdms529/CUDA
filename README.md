@@ -1,4 +1,4 @@
-# CUDA
+# CUDA 프로젝트
 ![image](https://user-images.githubusercontent.com/60471550/154381841-12e25bb8-0eae-46fa-acf2-ca0ac5915932.png)
 ![image](https://user-images.githubusercontent.com/60471550/154381889-589ae6ba-10be-4296-86f7-49d97587cf5c.png)
 ![image](https://user-images.githubusercontent.com/60471550/154381928-e4555bc5-b96e-4c4f-a967-bc017162a4ab.png)
