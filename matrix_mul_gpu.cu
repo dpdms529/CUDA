@@ -27,7 +27,7 @@ void MatrixMul(int* M, int* N, int* P){
         for(col = 0; col < LENGTH; col++){
             int Destindex = row * LENGTH + col;
             for(int index = 0; index<LENGTH; index++){
-                P[Destindex] += M[row * LENGTH + index] + N[col + index * LENGTH];
+                P[Destindex] += M[row * LENGTH + index] * N[col + index * LENGTH];
             }
             
         }
